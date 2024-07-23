@@ -69,7 +69,7 @@ Folder structure after decompression is as follows:
 ```
 **!!! ATTENTION !!! ATTENTION !!! ATTENTION !!!**
 
-The Silhouettes and Gait Energy Images (GEIs) has been resized to 64*64. And 2D and 3D poses are obtained from the original image without changing the shape.
+The Silhouettes and Gait Energy Images (GEIs) have been resized to 64*64. 2D and 3D poses are obtained from the original image without changing the shape.
 
 The header of *_2d_pose.txt is as follows:
 ```
@@ -124,7 +124,7 @@ Participants must package the submission.csv for submission using zip xxx.zip $C
 Part of the code is adopted from previous works: [GaitSet](https://github.com/AbnerHqC/GaitSet), We thank the original authors for their awesome repos.
 
 ## License
-The GREW dataset is freely available for free non-commercial use, and may be redistributed under these conditions.
+The GREW dataset is freely available for free non-commercial use and may be redistributed under these conditions.
 For commercial queries, contact [Zheng Zhu](zhengzhu@ieee.org).
 
 
@@ -140,7 +140,3 @@ If you find this code useful, please consider to cite our work.
     year={2021}              
 }
 ```
-### Contributing
-Main contributors:
-
-- Xianda Guo, ``xianda_guo@163.com``
