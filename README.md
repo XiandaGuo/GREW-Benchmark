@@ -2,12 +2,6 @@
 
 This repository contains the code for our ICCV 2021 paper `Gait Recognition in the Wild: A Benchmark` 
 
-
-GREW-BENCHMARK project is mainly maintained By Xianda Guo and Zheng Zhu. 
-
-For all main contributors, please check [contributing](#contributing).
-
-
 ## Dataset
 Download [GREW](https://www.grew-benchmark.org/download.html) datasets.
 
@@ -138,5 +132,12 @@ If you find this code useful, please consider to cite our work.
         Jiankang Deng, Guan Huang, Dalong Du,Jiwen Lu, Jie Zhou},
     booktitle={IEEE International Conference on Computer Vision (ICCV)},
     year={2021}              
+}
+@article{guo2022gait,
+  title={Gait Recognition in the Wild: A Large-scale Benchmark and NAS-based Baseline},
+  author={Guo, Xianda and Zhu, Zheng and Yang, Tian and Lin, Beibei and Huang, Junjie and Deng, Jiankang and Huang, Guan and Zhou, Jie and Lu, Jiwen},
+  journal={arXiv e-prints},
+  pages={arXiv--2205},
+  year={2022}
 }
 ```
