@@ -104,7 +104,7 @@ python train.py
 - `--cache` if set as TRUE all the training data will be loaded at once before the training start.
 This will accelerate the training.
 **Note that** if this arg is set as FALSE, samples will NOT be kept in the memory
-even they have been used in the former iterations. #Default: TRUE
+even if they have been used in the former iterations. #Default: TRUE
 
 ### Test
 ```bash
@@ -117,10 +117,9 @@ Participants must package the submission.csv for submission using zip xxx.zip $C
 
 Part of the code is adopted from previous works: [GaitSet](https://github.com/AbnerHqC/GaitSet), We thank the original authors for their awesome repos.
 
-## License
-The GREW dataset is freely available for free non-commercial use and may be redistributed under these conditions.
-For commercial queries, contact [Zheng Zhu](zhengzhu@ieee.org).
-
+Besides, some other attractive works extend the boundary of GREW.
+- [DyGait](https://github.com/M-Candy77/DyGait)
+- [SPOSGait](https://github.com/XiandaGuo/SPOSGait)
 
 ### Citing
 If you find this code useful, please consider to cite our work.
@@ -141,3 +140,7 @@ If you find this code useful, please consider to cite our work.
   year={2022}
 }
 ```
+
+## License
+The GREW dataset is freely available for non-commercial use and may be redistributed under these conditions.
+If you have any commercial questions, you can contact [Zheng Zhu](zhengzhu@ieee.org).
