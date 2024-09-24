@@ -13,7 +13,7 @@ This repository contains the code for our ICCV 2021 paper `Gait Recognition in t
 Part of the code is adopted from previous works: [GaitSet](https://github.com/AbnerHqC/GaitSet), We thank the original authors for their awesome repos.
 
 Besides, some other attractive works extend the boundary of GREW.
-- [DyGait](https://github.com/M-Candy77/DyGait)
+- [DyGait](https://github.com/M-Candy77/DyGait) (ICCV2023)
 - [SPOSGait](https://github.com/XiandaGuo/SPOSGait)
 
 ### Citing
