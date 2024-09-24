@@ -2,8 +2,10 @@
 
 This repository contains the code for our ICCV 2021 paper `Gait Recognition in the Wild: A Benchmark` 
 
-## Dataset
-Download [GREW](https://www.grew-benchmark.org/download.html) datasets.
+## Getting Started
+
+# [Apply for and Download](docs/0.download_datasets.md) GREW datasets.
+# [Decompress and Organize](docs/1.decompress&organize_datasets.md) GREW datasets.
 
 You can decompress the compressed package with the following command
 ```Shell
