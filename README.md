@@ -12,9 +12,11 @@ This repository contains the code for our ICCV 2021 paper `Gait Recognition in t
 
 Part of the code is adopted from previous works: [GaitSet](https://github.com/AbnerHqC/GaitSet), We thank the original authors for their awesome repos.
 
-Besides, some other attractive works extend the boundary of GREW.
+Besides, we have expanded GREW, and its latest version has been published in the TPAMI journal.
 - [DyGait](https://github.com/M-Candy77/DyGait) (ICCV2023)
-- [SPOSGait](https://github.com/XiandaGuo/SPOSGait)
+- [SPOSGait](https://github.com/XiandaGuo/SPOSGait) （TPAMI2025）
+
+
 
 ### Citing
 If you find this code useful, please consider to cite our work.
@@ -40,4 +42,4 @@ If you find this code useful, please consider to cite our work.
 
 ## License
 The GREW dataset is freely available for non-commercial use and may be redistributed under these conditions.
-If you have any commercial questions, you can contact [Zheng Zhu](zhengzhu@ieee.org).
+If you have any commercial questions, you can contact [Xianda Guo](xianda_guo@163.com) and [Zheng Zhu](zhengzhu@ieee.org).
