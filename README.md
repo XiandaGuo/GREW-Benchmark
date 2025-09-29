@@ -27,13 +27,15 @@ If you find this code useful, please consider to cite our work.
     booktitle={IEEE International Conference on Computer Vision (ICCV)},
     year={2021}              
 }
-@article{guo2022gait,
-  title={Gait Recognition in the Wild: A Large-scale Benchmark and NAS-based Baseline},
+@ARTICLE{10906429,
   author={Guo, Xianda and Zhu, Zheng and Yang, Tian and Lin, Beibei and Huang, Junjie and Deng, Jiankang and Huang, Guan and Zhou, Jie and Lu, Jiwen},
-  journal={arXiv e-prints},
-  pages={arXiv--2205},
-  year={2022}
-}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Gait Recognition in the Wild: A Large-Scale Benchmark and NAS-Based Baseline}, 
+  year={2025},
+  volume={47},
+  number={6},
+  pages={4535-4552},
+  doi={10.1109/TPAMI.2025.3546482}}
 ```
 
 ## License
