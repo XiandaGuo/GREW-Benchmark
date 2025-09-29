@@ -125,7 +125,7 @@ Part of the code is adopted from previous works: [GaitSet](https://github.com/Ab
 
 ## License
 The GREW dataset is freely available for free non-commercial use, and may be redistributed under these conditions.
-For commercial queries, contact [Zheng Zhu](zhengzhu@ieee.org).
+For commercial queries, contact [Xianda Guo](xianda_guo@163.com) and [Zheng Zhu](zhengzhu@ieee.org).
 
 
 ### Citing
@@ -139,6 +139,16 @@ If you find this code useful, please consider to cite our work.
     booktitle={IEEE International Conference on Computer Vision (ICCV)},
     year={2021}              
 }
+@ARTICLE{10906429,
+  author={Guo, Xianda and Zhu, Zheng and Yang, Tian and Lin, Beibei and Huang, Junjie and Deng, Jiankang and Huang, Guan and Zhou, Jie and Lu, Jiwen},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Gait Recognition in the Wild: A Large-Scale Benchmark and NAS-Based Baseline}, 
+  year={2025},
+  volume={47},
+  number={6},
+  pages={4535-4552},
+  keywords={Gait recognition;Benchmark testing;Training;Three-dimensional displays;Legged locomotion;Cameras;Videos;Streams;Face recognition;Neural architecture search;Large-scale gait recognition;biometric authentication;neural architecture search},
+  doi={10.1109/TPAMI.2025.3546482}}
 ```
 ### Contributing
 Main contributors:
